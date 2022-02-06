@@ -1,4 +1,4 @@
-package br.com.exercicios.contaBanco;
+package br.com.exercicios.simples.contaBanco;
 
 public class teste {
     public static void main(String[] args) {
